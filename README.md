@@ -1,5 +1,6 @@
 ![ice](https://user-images.githubusercontent.com/32040950/132483315-8f989ea8-2ca5-4625-8589-8c2649fe579e.png)
 
+Front end template taken from http://HTML.design
 Used Laravel for backend development.
 
 Features:
